@@ -32,13 +32,13 @@ This project analyzes a retail sales dataset using Python and Pandas to identify
 
 ## Regional Revenue Distribution
 
-![Regional Revenue Distribution](images/regional_revenue.png)
+![Regional Revenue Distribution](images/Region.png)
 
 ---
 
 ## Pareto Analysis
 
-![Pareto Analysis](images/pareto_analysis.png)
+![Pareto Analysis](images/pareto.png)
 
 ---
 
